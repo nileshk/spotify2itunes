@@ -37,6 +37,11 @@ Requirements
 
 Note that this is subject to breakage if Spotify changes their HTML page layout.
 
+TODO
+----
+
+* Handle local file URLs
+
 Credits
 -------
 
